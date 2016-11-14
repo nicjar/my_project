@@ -1,4 +1,4 @@
-data/raw/my_raw_data.txt
+data/raw/1992-01-01/*
 src/.Rhistory
 .Rproj.user
 .RData
